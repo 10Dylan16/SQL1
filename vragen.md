@@ -14,4 +14,4 @@ Wat zijn alle vrouwelijke persons met een gold van 400 of hoger
 
 Hoe haal ik alleen het record op van Mega Mindy
 
-Hoeveel Killerbees
+Hoeveel Killerbees zijn er als creatures beschikbaar
